@@ -1,3 +1,3 @@
 # eGeza
-first android application
+first android application...
 yeah
